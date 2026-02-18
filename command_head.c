@@ -10,7 +10,7 @@
 
 #define BUFFER_SIZE 4096
 
-//	./touchx  FileName  -n       number
+//	./headx  FileName  -n       number
 //	argv[0]   argv[1]   argv[2]  argv[3]
 //	argc = 4
 

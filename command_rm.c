@@ -12,7 +12,7 @@
 
 typedef int BOOL;
 
-//	./rm		FileName
+//	./rmx		FileName
 //	argv[0]   	argv[1]
 
 //	argc = 2

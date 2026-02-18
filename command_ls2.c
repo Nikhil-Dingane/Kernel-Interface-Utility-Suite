@@ -12,9 +12,13 @@
 
 typedef int BOOL;
 
+//	./lsx -a
+//	argv[0]   argv[1]
+//	argc = 2
+//
 //	./lsx -i
 //	argv[0]   argv[1]
-//	argc = 1  argc[1]
+//	argc = 2
 
 /*
 	Open the current directory(".")

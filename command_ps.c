@@ -13,7 +13,7 @@
 
 typedef int BOOL;
 
-//	./unamex
+//	./psx
 //	argv[0]
 //	argc = 1
 

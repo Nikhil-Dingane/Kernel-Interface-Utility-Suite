@@ -12,6 +12,10 @@
 
 typedef int BOOL;
 
+//	./cpx		SourcePath		DestPath
+//	argv[0]		argv[1]			argv[2]
+//	argc = 3
+
 BOOL copyData(int srcFileFd, int dstFileFd)
 {
 	char buffer[BLOCK_SIZE] = {'\0'};
